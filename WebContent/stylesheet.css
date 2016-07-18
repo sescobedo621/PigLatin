@@ -1,0 +1,36 @@
+body{
+	background-color: #ffb9f9;
+	font-family: Arial;
+	text-align: center;
+}
+h1{
+	font-size: 36px;
+	color: grey;
+}
+p>a{
+	background-color: #e7147f;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	border: solid 2px grey;
+}
+p>a:hover{
+	background-color: #df5c5c;
+}
+p>a:link{
+
+}
+#translation{
+	background-color: #e7147f;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	border: solid 2px grey;
+}
+#translation:hover{
+	background-color: #df5c5c;
+}
